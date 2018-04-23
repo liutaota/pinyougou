@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyougou:war">
+    <output-path>$PROJECT_DIR$/../ithiema_pingyougou_parent/pinyougou/target</output-path>
+    <root id="archive" name="pinyougou.war">
+      <element id="artifact" artifact-name="pinyougou:war exploded" />
+    </root>
+  </artifact>
+</component>
